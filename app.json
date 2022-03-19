@@ -1,0 +1,16 @@
+{
+  "name": "VLE_01x",
+  "description": "VLE_01x",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "AUUID",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/DurganConrad/",
+  "repository": "",
+  "stack": "container"
+}
